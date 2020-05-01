@@ -8,6 +8,7 @@
   ],
   "main": "src/index.js",
   "dependencies": {
+    "mdbreact": "4.26.0",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "react-jutsu": "2.1.5",
