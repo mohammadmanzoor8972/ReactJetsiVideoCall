@@ -1,2 +1,0 @@
-# ReactJetsiVideoCall
-Created with CodeSandbox
